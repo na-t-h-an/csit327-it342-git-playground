@@ -6,8 +6,9 @@
 - Abadiano, Kent Dominic (**@KapitanKent**)
 - Cantiller, Christian Jayson (**@Shanta413**)
 - Diva, Justin (**@avid0101**)
-- Lada, Nathan Xander (**@na-t-h-an**)
 - Casas, Kursten Dane (**@kurstdane**)
 - Carao, Estelle Felicity (**@teruteriri**)
 - Abella, Franchesca Louise (**@ChescaAbella**)
-
+- Go, Felix Christian (**@Lumity-13**)
+- Lo, Joshua Noel (**juswangs12**)
+- Lada, Nathan Xander (**@na-t-h-an**)
